@@ -18,12 +18,7 @@ export class AppComponent {
   public notifier=new BehaviorSubject<any>(this.temp);
   public config: any =
     {
-      apiKey: 'AIzaSyAH6sjZwMP014pmvdH1qFFpE2Sxg1Np6c0',
-      authDomain: 'fir-6db53.firebaseapp.com',
-      databaseURL: 'https://fir-6db53.firebaseio.com',
-      projectId: 'fir-6db53',
-      storageBucket: 'fir-6db53.appspot.com',
-      messagingSenderId: '91165345200'
+      //enter your config 
     };
 
   constructor() {
