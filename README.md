@@ -1,2 +1,2 @@
-install npm firebase
-run ngserve 
+install the npm firebase package, 
+run ngserve command 
